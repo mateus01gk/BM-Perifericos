@@ -1,4 +1,82 @@
 html {
+  background-color:#0f64a355 ;
   height: 100%;
   width: 100%;
+}
+
+.inicio{
+ 
+  text-align: center;
+  font-size: 23px;
+  padding:10px;
+h1{
+  font-size: 300%;
+}
+}
+.missao{
+   background-color:#6ba5d155 ;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+}
+
+.logo{
+  width:300 px ;
+  height:400px ;
+}
+#oferecemos{
+  font-size: 35px;
+  font-style: ;
+}
+.beneficios{
+  text-align: center;
+  font-size: 35px;
+  h3{
+     color:blue;
+  }
+ 
+}
+
+.produtos{
+  background-color:#08080855  ;
+  text-align: center;
+  font-size:25px ;
+  padding: 10px;
+h4{
+  font-size: 30px;
+}
+p{
+  font-size:40px ;
+  color: black;
+  font-style: italic;
+}
+  img{
+    width:500 px ;
+  height:300px ;}
+}
+#imgteclado{
+  width:400 px ;
+  height:250px ;
+}
+
+.item {
+  p{
+    font-size: 30px;
+    color: #493131;
+  }
+  display: inline-block;
+  vertical-align: top;
+  width: 63%;
+  margin-right: -10%;
+}
+
+.texto {
+  font-style: italic;
+  text-align: center;
+  font-size: 37px;
+}
+#final{
+  text-align: center;
+  font-size: 70px;
+  color: #0011ff;
 }
